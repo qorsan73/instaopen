@@ -16,6 +16,7 @@ git clone https://github.com/qorsan73/instaopen
 ````
 cd instaopen
 ````
+````
 python user.py
 ````
 # kali
